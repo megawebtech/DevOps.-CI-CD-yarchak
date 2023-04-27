@@ -61,6 +61,9 @@ https://github.com/netology-code/sys-pattern-homework/commit/b35f156260d9555e4e3
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 
+Ссылка на коммит:
+
+https://github.com/netology-code/sys-pattern-homework/commit/e2f8f64895344cdfc7e44aab491dc3cd73a06b82
 
 
 
