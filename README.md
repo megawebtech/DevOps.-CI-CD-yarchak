@@ -46,10 +46,7 @@
 Ссылка на коммит:
 
 
-https://github.com/netology-code/sys-pattern-homework/compare/main...megawebtech:github-hw-git-yarchak:main
-
-
----
+https://github.com/netology-code/sys-pattern-homework/commit/b35f156260d9555e4e37eec499fc57720dd7c519
 
 ### Задание 2
 
