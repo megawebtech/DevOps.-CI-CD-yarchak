@@ -15,6 +15,10 @@
 
 Решение 1
 
+Скриншот что установлен jenkins:
+
+!(https://github.com/megawebtech/DevOps.-CI-CD-yarchak/blob/main/jenkins.png)
+
 
 
 
