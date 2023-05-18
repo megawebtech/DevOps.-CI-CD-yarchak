@@ -49,3 +49,5 @@
 Скриншот dashboard:
 
 
+https://github.com/megawebtech/overview-monitoring/blob/main/yandex_montitoring.png
+
